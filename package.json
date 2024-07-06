@@ -1,0 +1,16 @@
+{
+  "name": "includo",
+  "version": "1.0.0",
+  "description": "Sistema di formazione professionale per migranti",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.10"
+  }
+}
